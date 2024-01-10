@@ -1,0 +1,5 @@
+	Historique des parties
+
+2024-01-10 - Mode Facile - Ordinateur : 43 | Ordinateur : 23 - Vainqueur : Ordinateur
+2024-01-10 - Mode Moyen - Ordinateur : 36 | Ordinateur : 44 - Vainqueur : Ordinateur
+2024-01-10 - Mode Difficile - Ordinateur : 38 | Ordinateur : 35 - Vainqueur : Ordinateur

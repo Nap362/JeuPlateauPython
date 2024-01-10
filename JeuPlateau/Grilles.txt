@@ -1,0 +1,5 @@
+j,b,j,r,r,j,j,j;j,r,v,j,b,j,j,b;r,j,r,r,j,j,b,j;b,j,j,b,j,b,j,r;j,r,r,j,r,v,j,r;b,j,j,r,b,j,j,r;j,r,j,r,j,r,j,r;r,r,j,j,b,j,r,j;
+j,r,v,j,b,j,j,b;r,j,r,r,j,j,b,j;j,b,j,r,r,j,j,j;j,r,j,r,j,r,j,r;b,j,j,b,j,b,j,r;b,j,j,r,b,j,j,r;r,r,j,j,b,j,r,j;j,r,r,j,r,v,j,r;
+j,r,r,j,r,v,j,r;b,j,j,r,b,j,j,r;r,j,r,r,j,j,b,j;j,b,j,r,r,j,j,j;b,j,j,b,j,b,j,r;j,r,v,j,b,j,j,b;r,r,j,j,b,j,r,j;j,r,j,r,j,r,j,r;
+b,j,j,r,b,j,j,r;j,j,j,v,r,b,j,j;r,j,r,r,j,j,b,j;j,r,j,r,v,r,j,r;b,r,j,b,j,b,r,j;j,r,j,j,b,j,j,b;r,j,r,j,r,r,j,r;j,r,j,j,r,j,b,j;
+j,j,r,b,r,j,j,r;j,r,j,j,b,j,j,b;v,j,r,r,b,j,b,j;r,r,j,j,j,j,r,j;b,j,j,b,j,b,j,j;j,r,v,j,r,r,j,r;b,j,j,r,b,r,j,r;j,r,j,r,j,r,j,r;

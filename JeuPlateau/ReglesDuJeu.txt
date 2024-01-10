@@ -1,0 +1,51 @@
+			Règles du jeu :
+
+	Composition :
+Le plateau se compose d'une grille 8x8 et de pions de 3 couleurs différentes qui correspondent à un certains nombres de points.
+  Jaune (o) : 1 point
+  Rouge (x) : 2 points
+  Bleu (+) : 3 points
+
+	But du jeu :
+Le jeu oppose 2 joueurs, dont le but est de capturer des pions pour obtenir le plus gros butin.
+
+	Déroulement d'un tour :
+Le joueur doit choisir un pion jaune à déplacer. Le pion doit obligatoire "sauter" par dessus un autre pion (peut importe la couleur) et atterir dans une case vide. 
+Le déplacement peut être orthogonal ou diagonal :
+|( )|   |( )|   |   |
+|   | x | + |   |   |  Dans cet exemple le pion o peut se déplacer uniquement dans l'une des cases ( )
+|( )| + | o | + |( )|  Les autres cases ne sont pas des déplacements valides
+|   | x | x | + |   |
+|( )|   | + |   |( )|
+
+	Enchainement :
+Lors d'un même tour il est parfois possible de réaliser un enchainement, c'est à dire de capturer plusieurs pions avec un même pion.
+En effet si une fois un déplacement effectué il est possible de capturer un autre pion, le joueur peut également le capturer.
+| o |   |   |   |   |		|   |   |   |   |   |		|   |   |   |   |   |
+|   | x |   |   |   |		|   |   |   |   |   |		|   |   |   |   |   |
+|   |   |( )| + |   |	  ->	|   |   | o | + |( )|	  ->	|   |   |   |   | o | Exemple d'un enchainement
+|   |   |   |   |   |		|   |   |   |   |   |		|   |   |   |   |   |
+|   |   |   |   |   |		|   |   |   |   |   |		|   |   |   |   |   |
+Attention : si vous essayé de faire un enchainement alors que ce n'est pas possible vous obtiendrez un malus.
+2 malus = -1 point
+
+	Fin de partie :
+La partie prend fin lorque plus aucun pion n'est déplaçable
+| o |   |   |   | o |
+|   | x |   |   |   |
+|   |   | x | + |   |  Dans cet exemple les deux pions o ne sont plus déplaçables.
+|   |   |   |   |   |  La partie serait donc finie.
+|   |   |   |   |   |
+
+	Modes de jeu :
+Joueur vs Joueur
+Joueur vs Ordinateur - Facile.
+Joueur vs Ordinateur - Moyen.
+Joueur vs Ordinateur - Difficile.
+
+	Comment jouer :
+Pour choisir et déplacer un pion il faut entrer les coordonnées de la case de départ puis de la case d'arrivée. 
+Quand une case de départ valide a été choisie, il n'est plus possible de changer.
+Les coordonnées sont représentées par une lettre majuscule suivie d'un chiffre : A3
+
+			Bon jeu !
